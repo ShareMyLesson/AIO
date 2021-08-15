@@ -1,2 +1,1 @@
-# AIO
-Maths with C++
+Mathematics with C++
