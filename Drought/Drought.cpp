@@ -13,8 +13,8 @@ int main() {
         fscanf(inputFile,"%d",&curRain);
         totRain += curRain;
         if (totRain >= capacity) {
-            fprintf(outputFile,"%d\n",day); //we have our answer
-            break;    //no need to keep measuring
+            fprintf(outputFile,"%d\n",day);
+            break;   
         }
     }
 
