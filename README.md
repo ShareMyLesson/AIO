@@ -1,1 +1,3 @@
-My Blog : www.sharemylesson.com.au
+My Blogs:
+www.sharemylesson.com.au
+www.clickaustralia.com.au
